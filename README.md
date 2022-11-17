@@ -1,3 +1,5 @@
 # pearson-course-aml
 
-Welcome to the lab instruction for Azure Machine Learning Fundamentals
+Welcome to the lab instructions for Azure Machine Learning Fundamentals.
+
+Follow me on [Linkedin](https://www.linkedin.com/in/frebault/) for more Data & AI content!
